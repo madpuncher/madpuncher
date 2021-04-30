@@ -1,8 +1,8 @@
 [![Header](https://github.com/madpuncher/madpuncher/blob/main/assets/header.jpg)](https://www.instagram.com/eldar_tengizov)
 
-## I'm a iOS Engineer
+## I'm an iOS Engineer
 
-### Language and Tools 
+### Languages and Tools 
 ![XCode](https://img.shields.io/badge/-XCode-090909?style=for-the-badge&logo=xcode&logoColor=47C5FB)
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
 ![FireBase](https://img.shields.io/badge/-FireBase-090909?style=for-the-badge&logo=FireBase&logoColor=E9D54D)
