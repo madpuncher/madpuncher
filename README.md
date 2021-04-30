@@ -12,5 +12,10 @@
 ![XCode](https://img.shields.io/badge/-SwiftUI-090909?style=for-the-badge&logo=circle&logoColor=47C5FB)
 
 
-Follow me
+### Follow me
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=FF0000)](https://www.instagram.com/eldar_tengizov)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/madpuncher)
+[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/madpuncher)
+[![TWITTER](https://img.shields.io/badge/-TWITTER-090909?style=for-the-badge&logo=TWITTER&logoColor=1C9DEB)](https://twitter.com/justpuncher)
+[![YOUTUBE](https://img.shields.io/badge/-YOUTUBE-090909?style=for-the-badge&logo=YOUTUBE&logoColor=FF0000)](https://www.youtube.com/c/PUNCHERCODE)
 
