@@ -1,21 +1,11 @@
-[![Header](https://github.com/madpuncher/madpuncher/blob/main/assets/header.jpg)](https://www.instagram.com/eldar_tengizov)
+![MasterHead](https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 
-## I'm an iOS Engineer
+<h1 align="center">Hi 👋, I'm Software Engineer
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/madpuncher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madpuncher" height="30" width="40" /></a>
+<a href="https://instagram.com/eldar_tengizov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eldar_tengizov" height="30" width="40" /></a>
+</p>
 
-### Languages and Tools 
-![XCode](https://img.shields.io/badge/-XCode-090909?style=for-the-badge&logo=xcode&logoColor=47C5FB)
-![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=F88C00)
-![FireBase](https://img.shields.io/badge/-FireBase-090909?style=for-the-badge&logo=FireBase&logoColor=E9D54D)
-![Realm](https://img.shields.io/badge/-Realm-090909?style=for-the-badge&logo=Realm&logoColor=red)
-![CocoaPods](https://img.shields.io/badge/-CocoaPods-090909?style=for-the-badge&logo=CocoaPods&logoColor=green)
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=white)
-![XCode](https://img.shields.io/badge/-SwiftUI-090909?style=for-the-badge&logo=circle&logoColor=47C5FB)
-
-
-### Social media
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=FF0000)](https://www.instagram.com/eldar_tengizov)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/madpuncher)
-[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/madpuncher)
-[![TWITTER](https://img.shields.io/badge/-TWITTER-090909?style=for-the-badge&logo=TWITTER&logoColor=1C9DEB)](https://twitter.com/justpuncher)
-[![YOUTUBE](https://img.shields.io/badge/-YOUTUBE-090909?style=for-the-badge&logo=YOUTUBE&logoColor=FF0000)](https://www.youtube.com/c/PUNCHERCODE)
-
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
