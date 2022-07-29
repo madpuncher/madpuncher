@@ -4,6 +4,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/madpuncher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madpuncher" height="30" width="40" /></a>
+<a href="https://telegram.me/madpuncher" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75984018/181780279-2daf9185-fb4a-44f7-96f6-93f1ce0e337b.svg" alt="madpuncher" height="35" width="35" /></a>
 <a href="https://instagram.com/eldar_tengizov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eldar_tengizov" height="30" width="40" /></a>
 </p>
 
