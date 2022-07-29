@@ -1,6 +1,6 @@
 ![MasterHead](https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 
-<h1 align="center">Hi 👋, I'm Software Engineer
+<h1 align="center">Hi, I'm Software Engineer
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/madpuncher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madpuncher" height="30" width="40" /></a>
